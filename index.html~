@@ -1,1 +1,11 @@
-<hl>hello,world</hl>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> A breaching whale</title>
+    </head>
+    <body>
+        <hl>hello,world</hl>
+        <p>Call me Ishmae.</p>
+    </body>
+</html>
+
